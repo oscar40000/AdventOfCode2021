@@ -1,1 +1,1 @@
-C:\Users\Oskar\IdeaProjects\AdventOfCode2021\build\classes\kotlin\main\Day1Kt.class;C:\Users\Oskar\IdeaProjects\AdventOfCode2021\build\classes\kotlin\main\MainKt.class
+C:\Users\Oskar\IdeaProjects\AdventOfCode2021\build\classes\kotlin\main\Day_1Kt$main$1.class;C:\Users\Oskar\IdeaProjects\AdventOfCode2021\build\classes\kotlin\main\Day_1Kt$main$2.class;C:\Users\Oskar\IdeaProjects\AdventOfCode2021\build\classes\kotlin\main\Day_1Kt.class
